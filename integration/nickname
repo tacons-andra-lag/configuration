@@ -10,7 +10,7 @@ if [ "$cookies" = "" ]; then
 	cookies=$(cat integration/cookies)
 fi
 
-if [ "$csrf" = ""]; then
+if [ "$csrf" = "" ]; then
 	csrf=$(cat integration/csrf-token)
 fi
 
