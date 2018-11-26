@@ -1,4 +1,8 @@
 integration/cookies
 integration/csrf-token
 integrate.php
+index.js
+package.json
+package-lock.json
+node_modules
 
